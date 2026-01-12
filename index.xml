@@ -15,11 +15,11 @@
     <history-start>2023-12-12</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="kiowatribe/law-xml" commit="d0ab170fd27aaca57dc69889cb72074468f4fdbb"/>
+        <repository name="kiowatribe/law-xml" commit="6b76983609b1c9625ecb3913f438b1eb95cae3cc"/>
       </repositories>
-      <platform version="2.18.1" reproducible="true"/>
-      <build-date>2025-12-11</build-date>
-      <codified-date>2025-09-19</codified-date>
+      <platform version="2.18.5" reproducible="true"/>
+      <build-date>2026-01-12</build-date>
+      <codified-date>2025-10-11</codified-date>
       <publication>publication/2025-12-11</publication>
     </build>
   </meta>
